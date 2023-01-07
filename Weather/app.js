@@ -19,7 +19,7 @@ let cityFinal = '';
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
-const key = '3648e2eb427a7b4bfa5e427b7d5ba89a';
+const key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 
 setInterval(() => {
